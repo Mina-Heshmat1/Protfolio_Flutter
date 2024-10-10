@@ -1,6 +1,6 @@
 // CV
 const String resume =
-    'https://drive.google.com/file/d/1SpEY9vvoOGNjWHpYMhiahn65o3tJRiSh/view?usp=drive_link';
+    'https://drive.google.com/file/d/1KZzDs4jwLgiROGSQKsn8Sr9ku9CyOhKB/view?usp=sharing';
 
 // Github Link
 const String gitHub = 'https://github.com/Mina-Heshmat1';
